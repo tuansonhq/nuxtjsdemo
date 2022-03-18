@@ -1,0 +1,16 @@
+a,a:hover{
+  text-decoration: none;
+}
+a:hover{
+  color: deeppink;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul, ol{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
